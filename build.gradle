@@ -1,0 +1,9 @@
+allprojects {
+    group "dev.foraged.shop"
+    version "0.1.7"
+
+    repositories {
+        mavenCentral()
+        mavenLocal()
+    }
+}
